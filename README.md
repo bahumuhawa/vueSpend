@@ -8,7 +8,7 @@ Introducing an expense tracker app developed with Vue 3 and the composition API.
 - Integration of Vue Toastification for notifications.
 - Utilization of the <script setup> syntax (Vue 3.2+).
 
-  ![Expense Tracker](/image.png)
+  ![Expense Tracker](Image.png)
 
 
 ## Project Setup
